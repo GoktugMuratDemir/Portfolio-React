@@ -1,4 +1,3 @@
-// first-project
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css'
 import Navbar from './Components/Navbar';
@@ -11,36 +10,11 @@ import Team from './Team/Team';
 import Footer from './Components/Footer';
 import ContactsSoon from './Components/ContactSoon';
 
-
-
-
-// import Particles from "react-tsparticles";  // Başka bir zaman ayrıntılı bak
-
-
-
 function App() {
   return (
     <>
 
      <Navbar />
-     
-
-      {/* <Particles  
-
-        params={ {
-          particles : {
-            number : {
-              value : 30 ,
-              density : {
-                enable : true , 
-                value_area : 900
-              }
-            }
-          }
-        } }
-
-      /> */}  {/* Öğren */}
-
 
       <Navbar />
 
@@ -53,19 +27,10 @@ function App() {
       <Experience />
 
       <Portfolio />
-      
-
-
-      {/* <PopUpExtra /> */}
 
       <Team />
 
-      {/* <Contacts /> */}
-
       <ContactsSoon />
-
-
-      {/* <ContactsExtra /> */}
 
       <Footer />
 
