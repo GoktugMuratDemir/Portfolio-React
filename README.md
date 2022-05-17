@@ -58,3 +58,46 @@
 Temel olarak bahsetmek gerekir ise bu projenin bana birçok artısı oldu. Şu ana kadar öğrendiğim bilgileri kullanarak yaptığım ilk projem oldu. Proje hazırlanma aşamasında gözlemlediğim tüm hatalar ile birlikte alternatif çözüm önerilerini araştıp en düzgün ve doğru bir şekilde projeyi son haline getirebildim.Bu projeyi bitirmek için uğraştığım, ter döktüğüm süre zarfının sonunda başarılı olduğum için mutluyum. Bu projenin bana kattığı en büyük artı ise React üzerine tamamen responsive bir şekilde siteyi kullandığım React kütüphaneleri ile nasıl tam bir tasarım haline getirebileceğimi öğrenmiş oldum. Umuyorum ki sonraki işlerimde daha iyi site ve projeler çıkartıp kendi adıma tam bir portfolyo sitesi hazırlayıp yayınlacağım.
  </p>
  
+ <br /><br />
+ <h2 align="center">Arayüz Görünümleri</h2>
+ <div align="center">
+  
+  <div>
+    <h5>Header Part</h5>
+    <a href="https://ibb.co/bLjbx6B"><img src="https://i.ibb.co/1KYz30q/Header.png" alt="Header" border="0"></a>
+  </div>
+  
+  <div>
+    <h5>About Me Part</h5>
+    <a href="https://ibb.co/bLjbx6B"><img src="https://i.ibb.co/NWF54J0/About-Me.png" alt="About-Me" border="0"></a>
+  </div>
+  
+  <div>
+    <h5>Services Part</h5>
+    <a href="https://ibb.co/bLjbx6B"><img src="https://i.ibb.co/DfrtPjq/Services.png" alt="Services" border="0"></a>
+  </div>
+  
+  <div>
+    <h5>Experience Part</h5>
+    <a href="https://ibb.co/bLjbx6B"><img src="https://i.ibb.co/h9chbVk/Experience.png" alt="Experience" border="0"></a>
+  </div>
+  
+  <div>
+    <h5>Portfolio Part</h5>
+    <a href="https://ibb.co/bLjbx6B"><img src="https://i.ibb.co/7CTMRz0/Portfolio.png" alt="Portfolio" border="0"></a>
+  </div>
+  
+  <div>
+    <h5>Happy Client Part</h5>
+    <a href="https://ibb.co/bLjbx6B"><img src="https://i.ibb.co/YXn13L3/Happy-Clients.png" alt="Happy-Clients" border="0"></a>
+  </div>
+  
+  <div>
+    <h5>Contact Us Part</h5>
+    <a href="https://ibb.co/bLjbx6B"><img src="https://i.ibb.co/D1DrkBr/Contact.png" alt="Contact" border="0"></a>
+  </div>
+  
+  
+  
+</div>
+ 
