@@ -1,4 +1,4 @@
-<div align="center"><h1>Portfolio-v1</h1></div>
+<div align="center"><h1>React Portfolio-v1 Project-1</h1></div>
 
 <h2 align="left">Proje Hakkında</h3>
 <p>
